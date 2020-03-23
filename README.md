@@ -7,10 +7,7 @@ Display academic project and personal portfolio
 </br>
 
 
-<h1>Personal Project</h1>
-
-Project outline
----
+<h1>Personal Project outline</h1>
 
 - [Wids Datathon 2020 | Predict ICU death probability](#wids_datathon_2020)
 - [Babson Analytics Hackathon | Merchandising Analytics Case Study](#babson_hackathon_2020)
