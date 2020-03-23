@@ -42,7 +42,7 @@ Labeled training data are provided for model development; you will then upload y
 
 <h2 id="babson_hackathon_2020">Babson Analytics Hackathon | Merchandising Analytics Case Study</h2>
 
-<h3>Recommend to start from the following Notebook:</h3>
+<h3>Notebook:</h3>
 
 - [Exploratory_Data_Analysis](https://github.com/chen-szuyu-cody/BabsonHackathon2020/blob/master/share_files/Exploratory%20Data%20Analysis.ipynb): to glance at all datasets and basis analysis for understanding data
 
