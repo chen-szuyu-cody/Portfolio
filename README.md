@@ -32,6 +32,7 @@ The challenge is to create a model that uses data from the first 24 hours of int
 Labeled training data are provided for model development; you will then upload your predictions for unlabeled data to Kaggle and these predictions will be used to determine the public leaderboard rankings, as well as the final winners of the competition.
 
 <h3>Data Description</h3>
+
 - training_v2.csv - the training data. You should see 91,713 encounters represented here. Please view the WiDS Datathon 2020 Dictionary file for more information about the columns.
 - unlabeled.csv - the data without hospital_death provided. You are being asked to predict the hospital_death variable for these encounters.
 - samplesubmission.csv - a sample submission file in the correct format
