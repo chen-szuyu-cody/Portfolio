@@ -19,6 +19,7 @@
 - [Predict encounter death probability using XGBoost](https://nbviewer.jupyter.org/github/chen-szuyu-cody/portfolio/blob/master/Project/wids_datathon_2020/Predicting%20Patients%20Mortality%20Rate%20by%20Using%20Machine%20Learning%20-%20XGBoost.ipynb)
 
 <h3>Blog:</h3>
+
 - [Machine Learning in Healthcare — WidsDatathon2020](https://medium.com/@chen.szuyu.cody/using-ensemble-learning-in-health-care-data-widsdatathon2020-318cb35edd96)
 
 <h3>Overview</h3>
