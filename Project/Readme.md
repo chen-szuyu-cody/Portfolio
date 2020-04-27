@@ -16,7 +16,7 @@
 
 <h3>Notebook:</h3>
 
-- [Predict encounter death probability using XGBoost](https://github.com/chen-szuyu-cody/portfolio/blob/master/Project/wids_datathon_2020/Predict%20encounter%20death%20probability%20using%20XGBoost.ipynb)
+- [Predict encounter death probability using XGBoost](https://nbviewer.jupyter.org/github/chen-szuyu-cody/portfolio/blob/master/Project/wids_datathon_2020/Predicting%20Patients%20Mortality%20Rate%20by%20Using%20Machine%20Learning%20-%20XGBoost.ipynb)
 
 <h3>Overview</h3>
 The challenge is to create a model that uses data from the first 24 hours of intensive care to predict patient survival. MIT's GOSSIS community initiative, with privacy certification from the Harvard Privacy Lab, has provided a dataset of more than 130,000 hospital Intensive Care Unit (ICU) visits from patients, spanning a one-year timeframe. This data is part of a growing global effort and consortium spanning Argentina, Australia, New Zealand, Sri Lanka, Brazil, and more than 200 hospitals in the United States.
