@@ -7,19 +7,10 @@ Display academic project and personal portfolio
 
 <h1>Personal Project Outline</h1>
 
-- [Wids Datathon 2020 | Predict ICU death probability](#wids_datathon_2020)
+- [Wids Datathon 2020 | Predict ICU death probability](https://github.com/chen-szuyu-cody/portfolio/tree/master/Project/wids_datathon_2020)
+
 - [Babson Analytics Hackathon 2020 | Merchandising Analytics Case Study](#babson_hackathon_2020)
 
-
-</br>
-</br>
-</br>
-
-<h2 id="wids_datathon_2020">Wids Datathon 2020 | Predict ICU death probability</h2>
-
-<h3>Link:</h3>
-
-- [Predict encounter death probability using XGBoost](https://github.com/chen-szuyu-cody/portfolio/tree/master/Project/wids_datathon_2020)
 
 ---
 
