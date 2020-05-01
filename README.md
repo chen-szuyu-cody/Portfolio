@@ -17,9 +17,9 @@ Display academic project and personal portfolio
 
 <h2 id="wids_datathon_2020">Wids Datathon 2020 | Predict ICU death probability</h2>
 
-<h3>Notebook:</h3>
+<h3>Link:</h3>
 
-- [Predict encounter death probability using XGBoost](https://nbviewer.jupyter.org/github/chen-szuyu-cody/portfolio/blob/master/Project/wids_datathon_2020/Predicting%20Patients%20Mortality%20Rate%20by%20Using%20Machine%20Learning%20-%20XGBoost.ipynb)
+- [Predict encounter death probability using XGBoost](https://github.com/chen-szuyu-cody/portfolio/tree/master/Project/wids_datathon_2020)
 
 ---
 
