@@ -14,7 +14,6 @@ Display academic project and personal portfolio
 </br>
 </br>
 </br>
----
 
 <h2 id="wids_datathon_2020">Wids Datathon 2020 | Predict ICU death probability</h2>
 
