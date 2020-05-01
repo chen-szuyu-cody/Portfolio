@@ -2,7 +2,7 @@
 
 <h3>Notebook:</h3>
 
-- [Predict encounter death probability using XGBoost](https://github.com/chen-szuyu-cody/portfolio/blob/master/Project/wids_datathon_2020/Predict%20encounter%20death%20probability%20using%20XGBoost.ipynb)
+- [Predicting Encounter Death Probability by Using Machine Learning - XGBoost](https://nbviewer.jupyter.org/github/chen-szuyu-cody/portfolio/blob/master/Project/wids_datathon_2020/Predicting%20Patients%20Mortality%20Rate%20by%20Using%20Machine%20Learning%20-%20XGBoost.ipynb)
 
 <h3>Blog:</h3> 
 
